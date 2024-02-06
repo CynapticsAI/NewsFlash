@@ -1,5 +1,4 @@
-pip==23.2.2
-deep_translator==2.4.2
-gtts==2.2.7
-newspaper3k==0.2.2
-gnews==3.2.4
+deep_translator
+gtts
+newspaper3k
+gnews
